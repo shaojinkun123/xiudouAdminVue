@@ -1,1 +1,1 @@
-This is a Vue test program
+This is a Vue test project
